@@ -1,4 +1,6 @@
+#include "hash_table.hpp"
 
 int main() {
-    return 0;
+    ht_hash_table* ht = ht_new();
+    ht_del_hash_table(ht);
 }

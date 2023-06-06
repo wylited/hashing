@@ -4,4 +4,4 @@ project('hashing', 'cpp',
 
 executable('hashing',
            'hashing.cpp',
-           install : true)
+           'hash_table.cpp')
