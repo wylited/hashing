@@ -1,0 +1,14 @@
+* Hashing
+
+** About
+
+This repo contains the code used to research different hash functions and the real world applications.
+The paper will be linked soon.
+
+** Structure 
+
+The code is split between c++ code, which is used implement and test the hash functions, and the python code which is used for the build system and generating clean and professional graphs and statstics from the result data from the testing.
+
+** Licensing
+
+All code is licensed under the MPL 2.0 license.
